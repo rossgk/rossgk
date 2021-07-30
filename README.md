@@ -1,7 +1,6 @@
 It's RossGK on Github (AKA RossGK Tangibles)
 - This is my sharing space for random project code and documents
-- And for some parts and pieces of things I might sell on Tindie
-- or generally share on Hackaday
+- And for some parts and pieces of things I might sell on Tindie, or generally share on Hackaday
 
 
 <!---
